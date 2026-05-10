@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a third-year Computer Science student specializing in Software Engineering at the University of Toronto Scarborough, passionate about building **impactful and reliable software**.
 
@@ -19,7 +19,7 @@ Looking ahead, I aim to use my skills to **create tech opportunities for youth i
 
 ---
 
-## 🧠 Featured Project: MicroC Compiler
+## Featured Project: MicroC Compiler
 
 **MicroC Compiler** | Python, ARM32v7, Bash/Shell
 📅 Mar 2026 – Apr 2026
