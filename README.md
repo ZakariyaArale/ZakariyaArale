@@ -54,7 +54,7 @@ Socket Programming • Asynchronous Programming
 
 Object-Oriented Programming (OOP) • 
 Machine Learning • Software Development Life Cycle (SDLC)
-Agile & Scrum Methodologies • Google Cloud Platform (GCP)
+• Agile & Scrum Methodologies • Google Cloud Platform (GCP)
 
 ---
 
