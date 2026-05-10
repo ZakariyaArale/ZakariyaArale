@@ -37,20 +37,20 @@ Built a lightweight compiler that translates high-level MicroC programs into **e
 
 ## ⚡ Tech Stack
 
-### 🧩 Languages
+### Languages
 
 Python • Java • C • JavaScript • HTML • CSS • Bash/Shell • ARM32v7
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 
 React • Tailwind CSS • Pandas • Scikit-learn • Matplotlib
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 
 Git • GitHub • Linux • VS Code • Jira • Android Studio
 Socket Programming • Asynchronous Programming
 
-### 🧠 Concepts
+### Concepts
 
 Object-Oriented Programming (OOP) • Data Structures & Algorithms
 Machine Learning • Software Development Life Cycle (SDLC)
@@ -58,14 +58,14 @@ Agile & Scrum Methodologies • Google Cloud Platform (GCP)
 
 ---
 
-## 🧠 Current Status
+##  Current Status
 
 🛠️ Taking a short break from personal projects
 👀 **Stay tuned for more in 2026**
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 * 💼 LinkedIn: *[https://www.linkedin.com/in/zakariya-arale/](https://www.linkedin.com/in/zakariya-arale/)*
 * 📧 Email: *arale.zakariya123@gmail.com*
