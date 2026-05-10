@@ -67,5 +67,5 @@ Agile & Scrum Methodologies • Google Cloud Platform (GCP)
 
 ## 📫 Let's Connect
 
-* 💼 LinkedIn: *[((https://www.linkedin.com/in/zakariya-arale/))](https://www.linkedin.com/in/zakariya-arale/)*
+* 💼 LinkedIn: *[https://www.linkedin.com/in/zakariya-arale/](https://www.linkedin.com/in/zakariya-arale/)*
 * 📧 Email: *arale.zakariya123@gmail.com*
