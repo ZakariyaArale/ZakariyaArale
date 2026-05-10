@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Zakariya Arale
 
-🎓 **3rd Year Computer Science (Software Engineering) Student at University of Toronto Scarborough**
-
 ---
 
 ## About Me
