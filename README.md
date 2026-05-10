@@ -52,7 +52,7 @@ Socket Programming • Asynchronous Programming
 
 ### Concepts
 
-Object-Oriented Programming (OOP) • Data Structures & Algorithms
+Object-Oriented Programming (OOP) • 
 Machine Learning • Software Development Life Cycle (SDLC)
 Agile & Scrum Methodologies • Google Cloud Platform (GCP)
 
