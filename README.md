@@ -28,10 +28,10 @@ Built a lightweight compiler that translates high-level MicroC programs into **e
 
 ### 🔍 Key Highlights
 
-* ⚙️ Engineered a translation engine to convert high-level constructs into optimized ARM32v7 assembly
-* 🛡️ Built a **static type checking system** using symbol tables and scope management
-* 🧮 Designed a **custom memory model** supporting function parameters, local variables, and dynamic allocation
-* 🧱 Refactored the compiler into modular stages (type checking, code generation, assembly translation) for scalability
+* Engineered a translation engine to convert high-level constructs into optimized ARM32v7 assembly
+* Built a **static type checking system** using symbol tables and scope management
+* Designed a **custom memory model** supporting function parameters, local variables, and dynamic allocation
+* Refactored the compiler into modular stages (type checking, code generation, assembly translation) for scalability
 
 ---
 
