@@ -33,7 +33,7 @@ Built a lightweight compiler that translates high-level MicroC programs into **e
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 ### Languages
 
